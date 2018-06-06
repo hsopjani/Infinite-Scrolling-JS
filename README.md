@@ -13,6 +13,7 @@ Add this javascript link before closing body element. `... </body>`
 <br>
 `<script src="https://gist.github.com/hsopjani/b6d8338d8f265e535aab6d82bf7ddd4a.js"></script>`
 <br><br>
+or download `infinite-scrolling.js` and add on your project <br><br>
 
 Simple way to setup in any element
 
